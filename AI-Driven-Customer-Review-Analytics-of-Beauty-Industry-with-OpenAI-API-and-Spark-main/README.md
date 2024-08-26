@@ -24,4 +24,4 @@ We leverage Databricks, PySpark, and OpenAI APIs to scalably conduct unsupervise
 ### 6. Leads to a comprehensive dashboard that provides analysis on different levels (category/subcategory/product)
 
 ### Link to the toy dataset: https://www.kaggle.com/datasets/jithinanievarghese/cosmetics-and-beauty-products-reviews-top-brands
-### Link to the project video: https://youtu.be/yFQWXn-usTs
+
