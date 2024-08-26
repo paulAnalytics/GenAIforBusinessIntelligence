@@ -1,9 +1,5 @@
 AI-Driven Customer Review Analytics of Beauty Industry with OpenAI API and Spark
 
-
-# Executive Summary
-### This project repository is created in partial fulfillment of the requirements for the Big Data Analytics course offered by the Master of Science in Business Analytics program at the Carlson School of Management, University of Minnesota.
-
 Every year, the consumer product goods industry witnesses the introduction of around 30,000 new products, yet less than 10% of them manage to achieve true success, as revealed by the McKinsey Consumer Trend Study in 2019. Understanding customers precisely and timely for product development becomes one of the key strengths of consumer packaged goods (CPG) companies. 
 
 Our project's primary objective is to establish a big-data-driven review intelligence and sentiment analysis pipeline, harnessing the capabilities of OpenAI, specifically tailored for the beauty industry. By leveraging LLM, we are able to think naturally again, effortlessly grasping the key information hidden in the data and conveying the business insights efficiently. 
